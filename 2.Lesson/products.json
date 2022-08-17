@@ -1,0 +1,136 @@
+{
+    "next": { "page": 2, "limit": 10 },
+    "results": [
+      {
+        "id": 1,
+        "name": "NIP+FAB Glycolic Fix Daily Cleansing Pads диски 60 шт",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbc/h2a/49696812728350/ocisausie-diski-dla-lica-s-glikolevoj-kislotoj-2-8-glycolic-fix-daily-cleansing-pads-60-ml-104297665-1.jpg",
+        "price": "6832",
+        "storageduration": 259,
+        "category_id": 2,
+        "brand_id": 98,
+        "isavailable": true,
+        "code": "64675343",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 11,
+        "name": "GREENINI Silky Cleansing гель 235 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h16/h65/52352474513438/greenini-gel-dla-umyvania-selkovyj-235ml-105741121-1.jpg",
+        "price": "2493",
+        "storageduration": 327,
+        "category_id": 3,
+        "brand_id": 464,
+        "isavailable": true,
+        "code": "370698638",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 20,
+        "name": "Welcos Kwailnara Aloe Deep Cleansing Foam 120 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h74/h5e/33985082392606/welcos-kwailnara-aloe-deep-cleansing-foam-120-ml-101773780-1.jpg",
+        "price": "1950",
+        "storageduration": 299,
+        "category_id": 4,
+        "brand_id": 367,
+        "isavailable": true,
+        "code": "663731819",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 29,
+        "name": "Beauty Fox Сладкий кокос гидрофильное масло 100 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hea/h78/50143624167454/gidrofilnoe-maslo-quot-sladkij-kokos-quot-100-ml-s-maslom-olivy-104519892-1.jpg",
+        "price": "2306",
+        "storageduration": 257,
+        "category_id": 4,
+        "brand_id": 410,
+        "isavailable": true,
+        "code": "930278510",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 38,
+        "name": "Grace Day пенка White Clay Fresh facial foam 180 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hfe/h6b/47178471964702/grace-day-penka-white-clay-fresh-facial-foam-180-ml-102875309-1.jpg",
+        "price": "2294",
+        "storageduration": 301,
+        "category_id": 4,
+        "brand_id": 432,
+        "isavailable": true,
+        "code": "568287272",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 48,
+        "name": "Urtekram Пряный цветок апельсина гель 150 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbd/hcf/50844427288606/urtekram-pranyj-cvetok-apelsina-150-ml-104905469-1.jpg",
+        "price": "6600",
+        "storageduration": 348,
+        "category_id": 2,
+        "brand_id": 307,
+        "isavailable": true,
+        "code": "316138833",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 59,
+        "name": "Klairs Gentle black fresh cleansing oil гидрофильное масло 150 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h60/h20/44705936605214/klairs-gentle-black-fresh-cleansing-oil-150-ml-102099022-1-Container.jpg",
+        "price": "10500",
+        "storageduration": 304,
+        "category_id": 5,
+        "brand_id": 459,
+        "isavailable": true,
+        "code": "365990397",
+        "numberofratings": 3,
+        "rating": 10
+      },
+      {
+        "id": 68,
+        "name": "Erborian Solid cleansing oil гидрофильное масло 80 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h91/had/51424589611038/erborian-ocisausee-maslo-80-gr-105240350-1.jpg",
+        "price": "24750",
+        "storageduration": 323,
+        "category_id": 6,
+        "brand_id": 410,
+        "isavailable": true,
+        "code": "210910874",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 77,
+        "name": "Organic slim Гель-скраб для умывания салициловый Noproblem 100 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hf8/h27/34360795529246/organic-slim-noproblem-100-ml-101370271-1-Container.jpg",
+        "price": "1900",
+        "storageduration": 260,
+        "category_id": 8,
+        "brand_id": 178,
+        "isavailable": true,
+        "code": "871579890",
+        "numberofratings": null,
+        "rating": 0
+      },
+      {
+        "id": 86,
+        "name": "THE BODY SHOP Алоэ пенка 150 мл",
+        "image": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h2c/h83/52014486224926/penka-dla-umyvania-aloe-105567519-1.jpg",
+        "price": "5590",
+        "storageduration": 315,
+        "category_id": 9,
+        "brand_id": 271,
+        "isavailable": true,
+        "code": "12083849",
+        "numberofratings": null,
+        "rating": 0
+      }
+    ]
+  }
+  
